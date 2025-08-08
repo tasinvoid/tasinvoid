@@ -16,7 +16,7 @@
   <a href="https://github.com/ZanePearton/ZanePearton">
     <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge&color=ff9500" alt="Profile Views" />
+  
 </div>
 
 ---
