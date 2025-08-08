@@ -5,7 +5,7 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/zane-pearton">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%233b5998?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
