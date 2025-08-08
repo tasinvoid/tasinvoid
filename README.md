@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shoaib%20Mahmud%Tasin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shoaib%20Mahmud%Tasin&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
