@@ -150,7 +150,7 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[tasinvoid]/[tasinvoid]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/tasinvoid/tasinvoid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 ### 🎯 Strategic Development Areas
 
@@ -160,25 +160,29 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
     'theme': 'neutral'
   }
 }%%
-classDef my-style fill:#4F46E5,color:#F3F4F6;
+classDef root-style fill:#4F46E5,color:#F3F4F6;
+classDef main-branch-style fill:#818CF8,color:#030712;
+classDef secondary-branch-style fill:#EC4899,color:#030712;
+classDef child-style fill:#1F2937,color:#F3F4F6;
+
 mindmap
-  root((2025 Focus)):::my-style
-    Full-Stack Mastery
-      React & Frontend
+  root((2025 Focus)):::root-style
+    Full-Stack Mastery:::main-branch-style
+      React & Frontend:::child-style
         Advanced State Management
         Performance Optimization
         UI/UX Design Patterns
-      Backend & APIs
+      Backend & APIs:::child-style
         API Security with JWT
         Database Optimization (MongoDB)
         Microservices Architecture
         Cloud Deployment (CI/CD)
-    Data & State Management
-      TanStack Query Mastery
+    Data & State Management:::secondary-branch-style
+      TanStack Query Mastery:::child-style
       Server-Side Rendering (Next.js)
       Real-time Data Communication
-    Emerging Technologies
-      TypeScript Integration
+    Emerging Technologies:::main-branch-style
+      TypeScript Integration:::child-style
       Animation & Interactivity
       Unit & Integration Testing
       Generative AI API's
