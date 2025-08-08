@@ -45,206 +45,84 @@ Software Engineer with **Bangladeshi/BD citizenship**, I’m a Full-Stack Develo
 
 ---
 
-
 ---
 
 ## 🌟 Featured Projects
 
-### 🏢 3D Visualization & Architectural Rendering
+### 🏢 Websites
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 
-#### 🏠 **Altman House Kitchen Refurbishment**
-[![Kitchen Refurbishment](https://img.youtube.com/vi/vIdtdDMdP8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=vIdtdDMdP8Q)
+#### 🏠 **Buildia-A home rental platform**
 
-Detailed visualization of a kitchen refurbishment project demonstrating photorealistic interior renderings with precise material textures, custom cabinetry, and realistic lighting.
+[![Kitchen Refurbishment](./images/buildia.png)]
 
-![Interior Design](https://img.shields.io/badge/Interior%20Design-%23FF5733.svg?style=flat-square)
-![3D Visualization](https://img.shields.io/badge/3D%20Visualization-%23990099.svg?style=flat-square)
-![Architectural Rendering](https://img.shields.io/badge/Architectural%20Rendering-%233399FF.svg?style=flat-square)
+Buildia is a modern, full-stack web application designed to streamline apartment management, from showcasing available units to handling user agreements and providing administrative oversight. It offers a seamless experience for both potential tenants and property administrators.
 
 </td>
 <td width="50%" align="center">
 
-#### 🏡 **Interactive Architectural Visualization**
-[![Architectural Visualization](https://img.youtube.com/vi/l31bYgLR7p4/hqdefault.jpg)](https://www.youtube.com/watch?v=l31bYgLR7p4)
+#### 🏡 **Food-circle - A food sharing platform**
 
-Professional residential architecture visualization created in Unreal Engine showcasing photo-realistic environments with detailed interiors and dynamic lighting.
+[![Architectural Visualization](./images/food-share.png)]
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D%20Modeling-%23FF7F50.svg?style=flat-square)
-![Real-time Rendering](https://img.shields.io/badge/Real--time%20Rendering-%233399FF.svg?style=flat-square)
+A full-stack web application designed to combat food waste by connecting users who have surplus food with those who need it. This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing. Built with a modern tech stack, the website is highly responsive and designed to be visually appealing and user-friendly.
 
 </td>
 </tr>
 </table>
 
-### 🎨 Creative Coding & Generative Art
+### 🎨 Sproutly - A plant knowledge base
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-#### 🌊 **Erosion Simulation**
-<a href="https://zanepearton.github.io/projects/erosion.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-erosion.png" alt="Erosion Simulation" width="100%" />
+#### 🌊 **Sproutly - A plant knowledge base**
+
+<a href="https://sproutly-515fc.web.app/" target="_blank">
+  <img src="./images/sproutly.png" alt="Erosion Simulation" width="100%" />
 </a>
 
-Interactive 3D terrain erosion simulation demonstrating hydraulic erosion with real-time water flow and sediment deposition.
+Sproutly is a vibrant community platform for gardening enthusiasts. Share, discover, and like the best gardening tips, whether you’re a beginner or a seasoned green thumb. Sproutly helps you grow your knowledge and your garden, all in one place!
 
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Hydraulic Erosion](https://img.shields.io/badge/Hydraulic%20Erosion-%2300A36C.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🌊%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/erosion.html)
+[![Live Demo](https://sproutly-515fc.web.app/)]
 
 </td>
 <td width="33%" align="center">
 
 #### 🐦 **Flocking Simulation**
-<a href="https://zanepearton.github.io/projects/flocking.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-flocking.png" alt="Flocking Simulation" width="100%" />
+
+<a href="https://buildia-92b37.web.app/" target="_blank">
+  <img src="./images/buildia.png" width="100%" />
 </a>
 
-3D implementation of the Boids algorithm simulating natural flocking behaviors with separation, alignment, and cohesion.
-
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Boids Algorithm](https://img.shields.io/badge/Boids%20Algorithm-%23990099.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🐦%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/flocking.html)
+BuildiA is a modern, full-stack web application designed to streamline apartment management, from showcasing available units to handling user agreements and providing administrative oversight. It offers a seamless experience for both potential tenants and property administrators.
+[![Live Demo](https://buildia-92b37.web.app/)]
 
 </td>
 <td width="33%" align="center">
 
-#### 🔗 **Edge Bundling**
-<a href="https://zanepearton.github.io/projects/edgebundling.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-edgebundling.png" alt="Edge Bundling" width="100%" />
+#### 🔗 **SharePlate**
+
+<a href=" https://food-circle-fce91.web.app/" target="_blank">
+  <img src="./images/food-share.png" width="100%" />
 </a>
 
-Interactive 3D network visualization using force-directed edge bundling for elegant cluster visualization.
+A full-stack web application designed to combat food waste by connecting users who have surplus food with those who need it. This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing. Built with a modern tech stack, the website is highly responsive and designed to be visually appealing and user-friendly.
 
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Network Analysis](https://img.shields.io/badge/Network%20Analysis-%233399FF.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgebundling.html)
+[![Live Demo](https://food-circle-fce91.web.app/)](https://zanepearton.github.io/projects/edgebundling.html)
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 
-#### 🌀 **Gyroid Visualization**
-<a href="https://zanepearton.github.io/projects/gyroid.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-gy.png" alt="Gyroid Visualization" width="100%" />
-</a>
-
-Real-time visualization of the Gyroid minimal surface using Marching Cubes algorithm in native JavaScript.
-
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Marching Cubes](https://img.shields.io/badge/Marching%20Cubes-%23FF7F50.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🌀%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/gyroid.html)
-
-</td>
-<td width="33%" align="center">
-
-#### 💫 **Flow Fields**
-<a href="https://zanepearton.github.io/projects/flowfields.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-flowfields.png" alt="Flow Fields" width="100%" />
-</a>
-
-Immersive 3D flow field visualization simulating fluid-like particle motion using Perlin noise.
-
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Perlin Noise](https://img.shields.io/badge/Perlin%20Noise-%23990099.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/💫%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/flowfields.html)
-
-</td>
-<td width="33%" align="center">
-
-#### 🌱 **Differential Growth**
-<a href="https://zanepearton.github.io/projects/edgegrowth.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-edge.png" alt="Edge Growth" width="100%" />
-</a>
-
-Interactive 3D differential mesh growth creating organic, emergent structures with adaptive curvature refinement.
-
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-![Differential Growth](https://img.shields.io/badge/Differential%20Growth-%2300A36C.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgegrowth.html)
-
-</td>
-</tr>
 </table>
 
-### 🤖 Machine Learning & AI Projects
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-#### 🍟 **McDeepNet**
-<a href="https://github.com/ZanePearton/McDeepNet" target="_blank">
-  <img src="https://github.com/ZanePearton/McDeepNet/blob/main/RecordIt-FEC16C29-55C7-4473-9F9D-430C821C0714.gif?raw=true" alt="McDeepNet Demo" width="100%" />
-</a>
-
-Machine Learning model trained on 20,000 McDonald's reviews using RNNs for sentiment analysis with real-time prediction capabilities.
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat-square)
-![RNN](https://img.shields.io/badge/RNN-%23990099.svg?style=flat-square)
-
-[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/ZanePearton/McDeepNet)
-
-</td>
-<td width="33%" align="center">
-
-####  **neuroSnake**
-<a href="https://zanepearton.github.io/projects/neurosnake.html" target="_blank">
-  <img src="https://zanepearton.github.io/js/ui/media/media-tf-snake.png" alt="Edge Growth" width="100%" />
-</a>
-
-An implementation of the classic Snake game powered by Machine Learning. The snake is trained to find food while avoiding collisions with its tail and boundaries.
-
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/neurosnake.html)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Professional Certifications
-
-<div align="center">
-
-### Certification Portfolio
-[![Microsoft](https://img.shields.io/badge/Microsoft-8+_Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zanepearton/)
-[![AWS](https://img.shields.io/badge/AWS-2+_Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-8+_Certifications-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
-[![Google](https://img.shields.io/badge/Google-3+_Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
-
-</div>
-
-### 🔷 Microsoft Azure
-**Data Engineer Associate** • **Data Scientist Associate** • **AI Engineer Associate** • **AI Fundamentals** • **Data Fundamentals** • **Azure Fundamentals** • **Security & Identity** • **DevOps Solutions**
-
-### ⚡ GitLab  
-**CI/CD Associate** • **Git Associate** • **Security Specialist** • **Project Management** • **Implementation Services** • **Services Engineer** • **Migration Services** • **GitLab CI**
-
-### ☁️ AWS & Google Cloud
-**Cloud Practitioner** • **Generative AI** • **ML Foundations** • **Serverless Computing** • **LLM Introduction** • **Responsible AI**
-
-### 📊 Data Science & Security
-**OpenAI API Systems** • **Time Series ML** • **TensorFlow/OpenCV** • **Cisco Cybersecurity** • **Linux Essentials** • **Python PCEP** • **IBM Deep Learning** • **Containers/Kubernetes** • **COBOL Programming**
-
-<div align="center">
-  <p><i>A comprehensive collection of professional certifications validating expertise across cloud platforms, DevOps practices, AI, data science, and security domains.</i></p>
-</div>
 
 ---
 
@@ -271,12 +149,15 @@ An implementation of the classic Snake game powered by Machine Learning. The sna
 </div>
 
 ---
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[https://github.com/tasinvoid]/[https://github.com/tasinvoid]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 ### 🎯 Strategic Development Areas
 
 ```mermaid
 mindmap
   root((2025 Focus))
-    Cloud Native
+    React
       Serverless Architecture
       Microservices Design
       Infrastructure as Code
