@@ -74,7 +74,7 @@ Buildia is a modern, full-stack web application designed to streamline apartment
 </tr>
 </table>
 
-### 🎨 Sproutly - A plant knowledge base
+### 🎨 My Best Works
 
 <table width="100%">
 <tr>
@@ -128,7 +128,7 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasinvoid&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
