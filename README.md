@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://dev.to/zanepearton">
-    <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" alt="DEV Community"/>
   </a>
   <a href="https://github.com/ZanePearton/ZanePearton">
     <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
