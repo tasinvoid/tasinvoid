@@ -154,7 +154,6 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 </div>
 ### 🎯 Strategic Development Areas
 
-```mermaid
 %%{
   init: {
     'theme': 'neutral'
@@ -164,6 +163,8 @@ classDef root-style fill:#4F46E5,color:#F3F4F6;
 classDef main-branch-style fill:#818CF8,color:#030712;
 classDef secondary-branch-style fill:#EC4899,color:#030712;
 classDef child-style fill:#1F2937,color:#F3F4F6;
+```mermaid
+
 
 mindmap
   root((2025 Focus)):::root-style
