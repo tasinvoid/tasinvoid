@@ -155,8 +155,14 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 ### 🎯 Strategic Development Areas
 
 ```mermaid
+%%{
+  init: {
+    'theme': 'neutral'
+  }
+}%%
+classDef my-style fill:#4F46E5,color:#F3F4F6;
 mindmap
-  root((2025 Focus))
+  root((2025 Focus)):::my-style
     Full-Stack Mastery
       React & Frontend
         Advanced State Management
