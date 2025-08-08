@@ -122,8 +122,6 @@ A full-stack web application designed to combat food waste by connecting users w
 
 </table>
 
-
-
 ---
 
 ## 📊 GitHub Analytics
@@ -149,6 +147,7 @@ A full-stack web application designed to combat food waste by connecting users w
 </div>
 
 ---
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/[https://github.com/tasinvoid]/[https://github.com/tasinvoid]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
@@ -157,24 +156,23 @@ A full-stack web application designed to combat food waste by connecting users w
 ```mermaid
 mindmap
   root((2025 Focus))
-    React
-      Serverless Architecture
-      Microservices Design
-      Infrastructure as Code
-      Container Orchestration
-    XR Innovation
-      WebXR Applications
-      Spatial Computing
-      Mixed Reality Interfaces
-      Real-time Rendering
-    AI Integration
-      Multimodal Systems
-      Reinforcement Learning
-      Edge AI Computing
-      Neural Architecture Search
-    Data Engineering
-      Real-time Pipelines
-      MLOps Platforms
-      Analytics Automation
-      Data Mesh Architecture
+    Full-Stack Mastery
+      React & Frontend
+        Advanced State Management
+        Performance Optimization
+        UI/UX Design Patterns
+      Backend & APIs
+        API Security with JWT
+        Database Optimization (MongoDB)
+        Microservices Architecture
+        Cloud Deployment (CI/CD)
+    Data & State Management
+      TanStack Query Mastery
+      Server-Side Rendering (Next.js)
+      Real-time Data Communication
+    Emerging Technologies
+      TypeScript Integration
+      Animation & Interactivity
+      Unit & Integration Testing
+      Generative AI API's
 ```
