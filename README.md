@@ -83,7 +83,7 @@ Buildia is a modern, full-stack web application designed to streamline apartment
 #### 🌊 **Sproutly - plant knowledgeBase**
 
 <a href="https://sproutly-515fc.web.app/" target="_blank">
-  <img src="./images/sproutly.png" alt="Erosion Simulation" width="100%" />
+  <img src="./images/sproutly.png"  width="100%" />
 </a>
 
 Sproutly is a vibrant community platform for gardening enthusiasts. Share, discover, and like the best gardening tips, whether you’re a beginner or a seasoned green thumb. Sproutly helps you grow your knowledge and your garden.
@@ -99,7 +99,7 @@ Sproutly is a vibrant community platform for gardening enthusiasts. Share, disco
   <img src="./images/buildia.png" width="100%" />
 </a>
 
-BuildiA is a modern, full-stack web application designed to streamline apartment management, from showcasing available units to handling user agreements and providing administrative oversight. It offers a seamless experience for both potential tenants and property administrators.
+BuildiA is a modern, full-stack web application designed to streamline apartment management, from showcasing available units to handling user agreements and providing administrative oversight. 
 <br>
 [![Live Demo](https://buildia-92b37.web.app/)]
 
