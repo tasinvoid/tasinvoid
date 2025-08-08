@@ -100,6 +100,7 @@ Sproutly is a vibrant community platform for gardening enthusiasts. Share, disco
 </a>
 
 BuildiA is a modern, full-stack web application designed to streamline apartment management, from showcasing available units to handling user agreements and providing administrative oversight. It offers a seamless experience for both potential tenants and property administrators.
+<br>
 [![Live Demo](https://buildia-92b37.web.app/)]
 
 </td>
