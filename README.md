@@ -68,7 +68,7 @@ Buildia is a modern, full-stack web application designed to streamline apartment
 
 [![Architectural Visualization](./images/food-share.png)]
 
-A full-stack web application designed to combat food waste by connecting users who have surplus food with those who need it. This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing. Built with a modern tech stack, the website is highly responsive and designed to be visually appealing and user-friendly.
+ This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing. the website is highly responsive and designed to be visually appealing and user-friendly.
 
 </td>
 </tr>
@@ -107,13 +107,13 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 
 #### 🔗 **SharePlate**
 
-<a href=" https://food-circle-fce91.web.app/" target="_blank">
+<a href="https://food-circle-fce91.web.app/" target="_blank">
   <img src="./images/food-share.png" width="100%" />
 </a>
 
-A full-stack web application designed to combat food waste by connecting users who have surplus food with those who need it. This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing. Built with a modern tech stack, the website is highly responsive and designed to be visually appealing and user-friendly.
+ This platform provides a secure and intuitive interface for managing food listings, making requests, and fostering a community dedicated to food sharing.the website is highly responsive and designed to be visually appealing and user-friendly.
 
-[![Live Demo](https://food-circle-fce91.web.app/)](https://zanepearton.github.io/projects/edgebundling.html)
+[![Live Demo](https://food-circle-fce91.web.app/)]
 
 </td>
 </tr>
