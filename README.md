@@ -150,7 +150,7 @@ BuildiA is a modern, full-stack web application designed to streamline apartment
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[https://github.com/tasinvoid]/[https://github.com/tasinvoid]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/[tasinvoid]/[tasinvoid]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 ### 🎯 Strategic Development Areas
 
