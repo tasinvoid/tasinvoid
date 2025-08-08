@@ -10,7 +10,7 @@
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dev.to/zanepearton">
+  <a href="https://www.facebook.com/profile.php?id=61573135861799">
     <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="DEV Community"/>
   </a>
   <a href="https://github.com/ZanePearton/ZanePearton">
@@ -80,7 +80,7 @@ Buildia is a modern, full-stack web application designed to streamline apartment
 <tr>
 <td width="33%" align="center">
 
-#### 🌊 **Sproutly - A plant knowledge base**
+#### 🌊 **Sproutly - plant knowledgeBase**
 
 <a href="https://sproutly-515fc.web.app/" target="_blank">
   <img src="./images/sproutly.png" alt="Erosion Simulation" width="100%" />
