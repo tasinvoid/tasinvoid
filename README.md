@@ -86,7 +86,7 @@ Buildia is a modern, full-stack web application designed to streamline apartment
   <img src="./images/sproutly.png" alt="Erosion Simulation" width="100%" />
 </a>
 
-Sproutly is a vibrant community platform for gardening enthusiasts. Share, discover, and like the best gardening tips, whether you’re a beginner or a seasoned green thumb. Sproutly helps you grow your knowledge and your garden, all in one place!
+Sproutly is a vibrant community platform for gardening enthusiasts. Share, discover, and like the best gardening tips, whether you’re a beginner or a seasoned green thumb. Sproutly helps you grow your knowledge and your garden.
 
 [![Live Demo](https://sproutly-515fc.web.app/)]
 
