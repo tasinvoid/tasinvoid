@@ -27,11 +27,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;Front-End%2C+Back-End%2C+DataBase%2C+and+MERN" alt="Typing SVG" />
 </div>
 
-> **Building the future at the intersection of data, cloud, and immersive technologies**
+> **Building the future at the intersection of front-end and back-end technologies**
 
-Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engineering solutions. I architect scalable data pipelines, deploy cloud-native applications, and create immersive XR experiences that push technological boundaries.
+Software Engineer with **Bangladeshi/BD citizenship**, I’m a Full-Stack Developer who loves bringing ideas to life! ✨ I spend my days building dynamic web apps with React, and on the backend, I’m rocking Node.js, Express, and MongoDB. My favorite projects are the ones that let me tackle a new challenge, from secure authentication to seamless database management. Let's build something great together! 🚀.
 
-**Current Focus:** Exploring AI-driven automation, cloud-native architectures, and next-generation XR interfaces.
+**Current Focus:** Exploring Nextjs, Web-Sockets, and three-js.
 
 ---
 
