@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shoaib%20Mahmud%Tasin&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Web%20Developer%20|%20Front-End•Back-End•MERN•I3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shoaib%20Mahmud%20Tasin&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Web%20Developer%20|%20Front-End•Back-End•MERN•I3" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;Front-End%2C+Back-End%2C+DataBase%2C+and+MERN" alt="Typing SVG" />
 </div>
 
 > **Building the future at the intersection of data, cloud, and immersive technologies**
